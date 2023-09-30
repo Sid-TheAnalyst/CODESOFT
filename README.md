@@ -13,3 +13,17 @@ I have try to answer the following questions after analyzing this dataset.
 * Who was alone and who was with family?
 * What factors helped someone survive the sinking?
 * How accurately we can predict the survival of the passenger?
+
+## Project_2 - Movie Rating Prediction With Python 
+
+Every dataset has a story and this set is pulled from IMDb.com of all the Indian movies on the platform.
+
+We will going to do some exploratory data analysis to answer the below questions.
+
+* Year with best rating
+* Does length of movie have any impact with the rating?
+* Top 10 movies according to rating per year and overall.
+* Which director directed the most movies
+* Which actor starred in the most movies
+
+After that, we'll build the predictive machine learning model using Stochastic Gradient Descent (SGD) Regressor which is going to predicts the rating of a movie based on the given parameters.
